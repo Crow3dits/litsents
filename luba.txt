@@ -203,12 +203,12 @@ endhook MF_SafeCracker
 
 ---
 
-starthook MF_LockPicking
+starthook Crow_Muukimine
 
 109.230.238.168 - Crow Test
 176.223.143.185 - Crow Main
 
-endhook MF_LockPicking
+endhook Crow_Muukimine
 
 ---
 
