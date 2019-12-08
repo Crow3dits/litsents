@@ -90,13 +90,13 @@ endhook mf_tuner
 
 ---
 
-starthook Crow_Kasvatamine
+starthook Crow_KK
 
 
 109.230.238.168 - Crow Test
 176.223.143.185 - Crow Main
 
-endhook Crow_Kasvatamine
+endhook Crow_KK
 
 ---
 
