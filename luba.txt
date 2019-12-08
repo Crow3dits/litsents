@@ -23,6 +23,14 @@ starthook playerhousing
 endhook playerhousing
 
 ---
+starthook MF_PlayerSafes
+
+109.230.238.168 - Crow Test
+176.223.143.185 - Crow Main
+
+endhook MF_PlayerSafes
+
+---
 
 starthook mf_furnicatalogue
 
