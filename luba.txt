@@ -1,3 +1,9 @@
+starthook Crow_Muukimine
+
+109.230.238.168 - Crow Test
+176.223.143.185 - Crow Main
+
+endhook Crow_Muukimine
 ---
 
 starthook Crow_Laod
@@ -200,15 +206,6 @@ starthook MF_SafeCracker
 176.223.143.185 - Crow Main
 
 endhook MF_SafeCracker
-
----
-
-starthook Crow_Muukimine
-
-109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
-
-endhook Crow_Muukimine
 
 ---
 
