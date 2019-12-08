@@ -142,7 +142,7 @@ endhook MF_MobileMeth
 
 starthook playersafes
 
-109.230.238.168 - Crow Test
+134.255.234.198 - Crow Test
 176.223.143.185 - Crow Main
 
 endhook playersafes
@@ -196,7 +196,7 @@ endhook MF_VehSales
 
 starthook MF_SafeCracker
 
-109.230.238.168 - Crow Test
+134.255.234.198 - Crow Test
 176.223.143.185 - Crow Main
 
 endhook MF_SafeCracker
