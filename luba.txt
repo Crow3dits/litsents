@@ -1,9 +1,9 @@
-starthook Crow_Muukimine
+starthook Crow_LW
 
 109.230.238.168 - Crow Test
 176.223.143.185 - Crow Main
 
-endhook Crow_Muukimine
+endhook Crow_LW
 ---
 
 starthook mf_crafting
@@ -52,12 +52,12 @@ starthook MF_Dope
 endhook MF_Dope
 
 ---
-starthook Crow_Laod
+starthook Crow_W
 
 109.230.238.168 - Crow Test
 176.223.143.185 - Crow Main
 
-endhook Crow_Laod
+endhook Crow_W
 
 ------
 
