@@ -33,13 +33,13 @@ endhook mf_furnicatalogue
 
 ---
 
-starthook MF_PropertyRaid
+starthook MF_MR
 
 109.230.238.168 - Crow Test
 176.223.143.185 - Crow Main
 
 
-endhook MF_PropertyRaid
+endhook MF_MR
 
 ---
 
