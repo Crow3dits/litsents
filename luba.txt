@@ -226,6 +226,16 @@ endhook MF_SafeCracker
 
 ---
 
+starthook Crow_CS
+
+109.230.238.168 - Crow Test
+176.223.143.185 - Crow Main
+
+endhook Crow_CS
+
+---
+
+
 starthook MF_Fleeca
 
 109.230.238.168 - Crow Test
