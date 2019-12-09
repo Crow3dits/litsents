@@ -59,6 +59,17 @@ endhook MF_PropertyRaid
 
 ---
 
+starthook MF_MR
+
+109.230.238.168 - Crow Test
+176.223.143.185 - Crow Main
+
+
+endhook MF_MR
+
+---
+
+
 starthook MF_Dope
 
 
