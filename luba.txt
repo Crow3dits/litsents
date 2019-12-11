@@ -1,7 +1,7 @@
 starthook Crow_LW
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_LW
 ---
@@ -9,7 +9,7 @@ endhook Crow_LW
 starthook mf_crafting
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook mf_crafting
 
@@ -18,7 +18,7 @@ endhook mf_crafting
 starthook playerhousing
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook playerhousing
 
@@ -26,7 +26,7 @@ endhook playerhousing
 starthook Crow_S
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_S
 
@@ -34,7 +34,7 @@ endhook Crow_S
 starthook MF_PlayerSafes
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_PlayerSafes
 
@@ -43,7 +43,7 @@ endhook MF_PlayerSafes
 starthook mf_furnicatalogue
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook mf_furnicatalogue
 
@@ -52,7 +52,7 @@ endhook mf_furnicatalogue
 starthook MF_PropertyRaid
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 
 endhook MF_PropertyRaid
@@ -62,7 +62,7 @@ endhook MF_PropertyRaid
 starthook Crow_MR
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 
 endhook Crow_MR
@@ -74,7 +74,7 @@ starthook MF_Dope
 
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Dope
 
@@ -82,7 +82,7 @@ endhook MF_Dope
 starthook Crow_W
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_W
 
@@ -92,7 +92,7 @@ starthook MF_PawnShop
 
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 	
 endhook MF_PawnShop
 
@@ -101,7 +101,7 @@ endhook MF_PawnShop
 starthook MF_CriminalTracker
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_CriminalTracker
 
@@ -111,7 +111,7 @@ starthook mf_tuner
 
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook mf_tuner
 
@@ -121,7 +121,7 @@ starthook Crow_KK
 
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_KK
 
@@ -130,7 +130,7 @@ endhook Crow_KK
 starthook MF_Stress
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Stress
 
@@ -139,7 +139,7 @@ endhook MF_Stress
 starthook esx_policemdt
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook esx_policemdt
 
@@ -148,7 +148,7 @@ endhook esx_policemdt
 starthook MF_Status
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Status
 
@@ -157,7 +157,7 @@ endhook MF_Status
 starthook Crow_DNA
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_DNA
 
@@ -166,7 +166,7 @@ endhook Crow_DNA
 starthook MF_MobileMeth
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_MobileMeth
 
@@ -175,7 +175,7 @@ endhook MF_MobileMeth
 starthook MF_Purge
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Purge
 
@@ -184,7 +184,7 @@ endhook MF_Purge
 starthook MF_ObjectSpawner
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_ObjectSpawner
 
@@ -193,7 +193,7 @@ endhook MF_ObjectSpawner
 starthook MF_Trackables
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Trackables
 
@@ -202,7 +202,7 @@ endhook MF_Trackables
 starthook MF_Boxing
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Boxing
 
@@ -211,7 +211,7 @@ endhook MF_Boxing
 starthook MF_VehSales
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_VehSales
 
@@ -220,7 +220,7 @@ endhook MF_VehSales
 starthook MF_SafeCracker
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_SafeCracker
 
@@ -229,7 +229,7 @@ endhook MF_SafeCracker
 starthook Crow_CS
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook Crow_CS
 
@@ -239,7 +239,7 @@ endhook Crow_CS
 starthook MF_Fleeca
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Fleeca
 
@@ -248,7 +248,7 @@ endhook MF_Fleeca
 starthook MF_Vangelico
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_Vangelico
 
@@ -257,7 +257,7 @@ endhook MF_Vangelico
 starthook MF_DrugSales
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_DrugSales
 
@@ -266,7 +266,7 @@ endhook MF_DrugSales
 starthook MF_PacificStandard
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_PacificStandard
 
@@ -275,7 +275,7 @@ endhook MF_PacificStandard
 starthook MF_SkeletalSystem
 
 109.230.238.168 - Crow Test
-176.223.143.185 - Crow Main
+164.68.119.217 - Crow Main
 
 endhook MF_SkeletalSystem
 
