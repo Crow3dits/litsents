@@ -1,26 +1,19 @@
+-----------Laomuukimine-------------------
 starthook Crow_LW
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
 endhook Crow_LW
----
-starthook Crow_AS
+---------------Ladu--------------------------
+starthook Crow_W
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook Crow_AS
----
+endhook Crow_W
 
-starthook mf_crafting
-
-109.230.238.168 - Crow Test
-164.68.119.217 - Crow Main
-
-endhook mf_crafting
-
-------
+-------------Majutus-----------------------------------------------------------
 
 starthook playerhousing
 
@@ -29,24 +22,24 @@ starthook playerhousing
 
 endhook playerhousing
 
----
-starthook Crow_S
+--------------------Objektispawner 1-----------------------------------------
+
+starthook Crow_AS1
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook Crow_S
+endhook Crow_AS1
 
----
-starthook MF_PlayerSafes
+------------------ObjektiSpawner----------------------------------
+starthook Crow_AS
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook MF_PlayerSafes
+endhook Crow_AS
 
----
-
+----------------Maja Mööbel----------------------------------------------
 starthook Crow_MM
 
 109.230.238.168 - Crow Test
@@ -54,27 +47,50 @@ starthook Crow_MM
 
 endhook Crow_MM
 
----
+---------------------------------------------------------------------------------
+
+starthook mf_crafting
+
+109.230.238.168 - Crow Test
+164.68.119.217 - Crow Main
+
+endhook mf_crafting
+
+--------------------------Seiff----------------------------------------------------------
+starthook Crow_S
+
+109.230.238.168 - Crow Test
+164.68.119.217 - Crow Main
+
+endhook Crow_S
+
+---------------------------------------------------------------------------------
+starthook MF_PlayerSafes
+
+109.230.238.168 - Crow Test
+164.68.119.217 - Crow Main
+
+endhook MF_PlayerSafes
+
+-------------------------------------------------------------------------
 
 starthook MF_PropertyRaid
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-
 endhook MF_PropertyRaid
 
----
+-----------------------------------------------------------------------------------
 
 starthook Crow_MR
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-
 endhook Crow_MR
 
----
+---------------------------------------------------------------------------------------
 
 
 starthook MF_Dope
@@ -85,16 +101,7 @@ starthook MF_Dope
 
 endhook MF_Dope
 
----
-starthook Crow_W
-
-109.230.238.168 - Crow Test
-164.68.119.217 - Crow Main
-
-endhook Crow_W
-
-------
-
+------------------------------------------------------------------------
 starthook MF_PawnShop
 
 
@@ -103,7 +110,7 @@ starthook MF_PawnShop
 	
 endhook MF_PawnShop
 
----
+---------------------------------------------------------------------------------
 
 starthook MF_CriminalTracker
 
@@ -122,7 +129,7 @@ starthook mf_tuner
 
 endhook mf_tuner
 
----
+---------Kanepikasvatus---------------------------------------------------------------
 
 starthook Crow_KK
 
@@ -132,7 +139,7 @@ starthook Crow_KK
 
 endhook Crow_KK
 
----
+-------------------------------------------------------------------------------------------
 
 starthook MF_Stress
 
@@ -141,7 +148,7 @@ starthook MF_Stress
 
 endhook MF_Stress
 
----
+---------------------------------------------------------------------------------------------------
 
 starthook esx_policemdt
 
@@ -150,7 +157,7 @@ starthook esx_policemdt
 
 endhook esx_policemdt
 
----
+------------------------------------------------------------------------------------------------------
 
 starthook MF_Status
 
@@ -159,7 +166,7 @@ starthook MF_Status
 
 endhook MF_Status
 
----
+-------------------------------------------------------------------------------------------------------
 
 starthook Crow_DNA
 
@@ -168,7 +175,7 @@ starthook Crow_DNA
 
 endhook Crow_DNA
 
----
+--------------------------------------------------------------------------------------------------------------
 
 starthook MF_MobileMeth
 
@@ -177,7 +184,7 @@ starthook MF_MobileMeth
 
 endhook MF_MobileMeth
 
----
+-----------------------------------------------------------------------------------------------
 
 starthook MF_Purge
 
@@ -186,16 +193,7 @@ starthook MF_Purge
 
 endhook MF_Purge
 
----
-
-starthook Crow_AS1
-
-109.230.238.168 - Crow Test
-164.68.119.217 - Crow Main
-
-endhook Crow_AS1
-
----
+----------------------------------------------------------------
 
 starthook MF_Trackables
 
