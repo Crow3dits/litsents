@@ -188,12 +188,12 @@ endhook MF_Purge
 
 ---
 
-starthook Crow_AT
+starthook Crow_AS1
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook Crow_AT
+endhook Crow_AS1
 
 ---
 
