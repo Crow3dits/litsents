@@ -23,15 +23,6 @@ starthook playerhousing
 endhook playerhousing
 
 ---
-
-starthook objectspawner
-
-109.230.238.168 - Crow Test
-164.68.119.217 - Crow Main
-
-endhook objectspawner
-
----
 starthook Crow_S
 
 109.230.238.168 - Crow Test
