@@ -5,14 +5,6 @@ starthook Crow_LW
 164.68.119.217 - Crow Main
 
 endhook Crow_LW
----------------Ladu--------------------------
-starthook Crow_W
-
-109.230.238.168 - Crow Test
-164.68.119.217 - Crow Main
-
-endhook Crow_W
-
 -------------Majutus-----------------------------------------------------------
 
 starthook playerhousing
@@ -28,6 +20,13 @@ starthook objectspawner
 164.68.119.217 - Crow Main
 
 endhook objectspawner
+---------------Ladu--------------------------
+starthook Crow_W
+
+109.230.238.168 - Crow Test
+164.68.119.217 - Crow Main
+
+endhook Crow_W
 
 ----------------Maja Mööbel----------------------------------------------
 starthook furnicatalogue
