@@ -22,20 +22,20 @@ starthook playerhousing
 
 endhook playerhousing
 ------------------ObjektiSpawner----------------------------------
-starthook Crow_AS
+starthook objectspawner
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook Crow_AS
+endhook objectspawner
 
 ----------------Maja Mööbel----------------------------------------------
-starthook Crow_WM
+starthook furnicatalogue
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook Crow_WM
+endhook furnicatalogue
 
 ---------------------------------------------------------------------------------
 
