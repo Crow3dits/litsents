@@ -21,8 +21,6 @@ starthook playerhousing
 164.68.119.217 - Crow Main
 
 endhook playerhousing
-
-
 ------------------ObjektiSpawner----------------------------------
 starthook Crow_AS
 
