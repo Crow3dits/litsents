@@ -5,12 +5,12 @@ starthook Crow_LW
 
 endhook Crow_LW
 ---
-starthook objectspawner
+starthook Crow_AS
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook objectspawner
+endhook Crow_AS
 ---
 
 starthook mf_crafting
