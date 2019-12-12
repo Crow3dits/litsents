@@ -47,12 +47,12 @@ endhook MF_PlayerSafes
 
 ---
 
-starthook mf_furnicatalogue
+starthook Crow_MM
 
 109.230.238.168 - Crow Test
 164.68.119.217 - Crow Main
 
-endhook mf_furnicatalogue
+endhook Crow_MM
 
 ---
 
