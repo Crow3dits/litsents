@@ -52,6 +52,8 @@ starthook Crow_QHH
 
 23.183.246.241 - Crow Test
 164.68.119.217 - Crow Main
+2001:41d0:700:5c4a::
+141.95.64.74
 
 endhook Crow_QHH
 
